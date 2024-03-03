@@ -11,7 +11,8 @@ I'm exploring app development and currently learning to build apps with Flutter,
 
 **️ Learning Roadmap:**
 
-Flutter & Android Learning Roadmap: [https://api.roadmap.sh/v1-badge/tall/6459d8dff3d9ecfa51d82f3b?variant=dark&roadmaps=flutter%2Candroid]
+Flutter & Android Learning Roadmap: [![Roadmap.sh](https://api.roadmap.sh/v1-badge/tall/6459d8dff3d9ecfa51d82f3b?variant=dark)](https://roadmap.sh)
+
 
 ** Connect with me:**
 
