@@ -1,16 +1,19 @@
-### Hi there 👋
+# Kunj Shingala
 
-<!--
-**Kunjshingala/Kunjshingala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! 
 
-Here are some ideas to get you started:
+I'm exploring app development and currently learning to build apps with Flutter, using what I know from Android. I love making useful and creative apps, and I'm always looking to learn more.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**️ Technologies & Skills:**
+
+- Flutter (actively learning)
+- Android (basic knowledge)
+
+**️ Learning Roadmap:**
+
+Flutter & Android Learning Roadmap: [https://api.roadmap.sh/v1-badge/tall/6459d8dff3d9ecfa51d82f3b?variant=dark&roadmaps=flutter%2Candroid]
+
+** Connect with me:**
+
+- LinkedIn: [https://www.linkedin.com/in/kunjshingala03/]
+- Email: [kunjshingala.p@gmail.com]
