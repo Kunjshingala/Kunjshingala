@@ -18,7 +18,7 @@ I'm exploring app development and currently learning to build apps with Flutter,
 
 **️ States:**
 
-><div style="display:flex; gap:50px; flex-wrap:wrap;">
+><div style="display:flex; gap:30px; flex-wrap:wrap;">
 >    <a href="https://github.com/Kunjshingala">
 >        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kunjshingala&layout=compact&langs_count=8&theme=algolia"   alt="GitHub stats">
 >    </a>
