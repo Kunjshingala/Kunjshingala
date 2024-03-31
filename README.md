@@ -23,5 +23,6 @@ I'm exploring app development and currently learning to build apps with Flutter,
 >        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kunjshingala&layout=compact&langs_count=8&theme=algolia"   alt="GitHub stats">
 >    </a>
 >    <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/6459d8dff3d9ecfa51d82f3b? 
->    variant=dark&roadmaps=flutter%2Candroid" alt="roadmap.sh"/></a>
+>      variant=dark&roadmaps=flutter%2Candroid" alt="roadmap.sh"/>
+>    </a>
 ></div>
