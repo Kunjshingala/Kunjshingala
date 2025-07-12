@@ -2,12 +2,17 @@
 
 Hi there! 
 
-I'm exploring app development and currently learning to build apps with Flutter, using what I know from Android. I love making useful and creative apps, and I'm always looking to learn more.
+Flutter developer with over 1.5 years of experience in building clean, responsive, and user-friendly mobile applications. Well-versed in Android fundamentals and equipped with practical knowledge of iOS. I've contributed to multiple real-world projects across different domains with a focus on performance, usability, and simplicity.
+
+I enjoy working on meaningful ideas, collaborating with others, and learning continuously. Always open to teamwork, knowledge sharing, and helping where I can. Passionate about building apps that make a real difference.
+
 
 **️ Technologies & Skills:**
 
->- Flutter (actively learning)
->- Android (basic knowledge)
+>- Flutter – Possess knowledge
+>- Android - fundamental knowledge
+>- iOS - fundamental understanding
+>- Firebase, REST APIs, Git, State Management   
 
 **️ Connect with me:**
 
